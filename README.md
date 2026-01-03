@@ -9,7 +9,7 @@ A clean starter structure for training + evaluating a machine learning model.
 - Evaluates with accuracy + confusion matrix
 - Saves outputs
 
-## How to run (later today)
+## How to run 
 1. Install requirements
 2. Run `python src/train.py`
 3. Run `python src/evaluate.py`
